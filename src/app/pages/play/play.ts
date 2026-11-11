@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-play',
   imports: [],
   templateUrl: './play.html',
-  styleUrl: './play.css',
+  styleUrl: './play.scss',
 })
 export class Play {
 

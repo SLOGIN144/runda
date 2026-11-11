@@ -1,0 +1,10 @@
+.panel {
+  background: var(--zelena-svetla);
+  border: 3px solid var(--crna);
+  border-radius: 12px;
+  box-shadow: 6px 6px 0 var(--crna);
+  padding: 24px;
+  margin-bottom: 24px;
+
+  h2 { margin-top: 0; }
+}

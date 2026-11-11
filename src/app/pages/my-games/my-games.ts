@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-my-games',
   imports: [],
   templateUrl: './my-games.html',
-  styleUrl: './my-games.css',
+  styleUrl: './my-games.scss',
 })
 export class MyGames {
 

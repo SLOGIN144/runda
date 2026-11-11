@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&family=Bitter:wght@400;700&display=swap');
+
+:root {
+  --zelena: #1E2B23;
+  --zelena-svetla: #2C3D31;
+  --medenina: #C8963E;
+  --rumena: #F2C14E;
+  --opeka: #B86A55;
+  --krem: #EFE3C8;
+  --crna: #111;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--zelena);
+  color: var(--krem);
+  font-family: 'Bitter', serif;
+
+  h1, h2, h3 {
+    font-family: 'Rye', serif;
+    color: var(--rumena);
+    font-weight: normal;
+  }
+
+  a { color: var(--krem); }
+}

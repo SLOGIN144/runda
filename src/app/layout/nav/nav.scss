@@ -1,0 +1,11 @@
+.navigacija {
+  display: flex;
+  gap: 24px;
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover { color: var(--rumena); }
+  }
+}

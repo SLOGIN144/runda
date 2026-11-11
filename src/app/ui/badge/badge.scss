@@ -1,0 +1,14 @@
+.oznaka {
+  display: inline-block;
+  padding: 4px 10px;
+  border: 2px solid var(--crna);
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: bold;
+
+  &.mild    { background: #8DB580; color: var(--crna); }
+  &.spicy   { background: var(--rumena); color: var(--crna); }
+  &.extreme { background: var(--opeka); color: var(--krem); }
+  &.javna   { background: var(--krem); color: var(--crna); }
+  &.zasebna { background: var(--crna); color: var(--krem); }
+}

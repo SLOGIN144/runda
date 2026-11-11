@@ -1,0 +1,15 @@
+.glava {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  border-bottom: 4px solid var(--medenina);
+  background: var(--zelena-svetla);
+
+  .logo {
+    font-family: 'Rye', serif;
+    font-size: 36px;
+    color: var(--rumena);
+    text-shadow: 3px 3px 0 var(--crna);
+  }
+}

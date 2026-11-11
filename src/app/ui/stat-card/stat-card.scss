@@ -1,0 +1,16 @@
+.statistika {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background: var(--zelena-svetla);
+  border: 3px solid var(--crna);
+  border-radius: 12px;
+  box-shadow: 4px 4px 0 var(--crna);
+
+  strong {
+    font-family: 'Rye', serif;
+    font-size: 40px;
+    color: var(--rumena);
+  }
+}

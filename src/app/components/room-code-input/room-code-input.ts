@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-room-code-input',
   imports: [],
   templateUrl: './room-code-input.html',
-  styleUrl: './room-code-input.css',
+  styleUrl: './room-code-input.scss',
 })
 export class RoomCodeInput {
 

@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-game-editor',
   imports: [],
   templateUrl: './game-editor.html',
-  styleUrl: './game-editor.css',
+  styleUrl: './game-editor.scss',
 })
 export class GameEditor {
 

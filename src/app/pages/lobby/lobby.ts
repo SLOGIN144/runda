@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-lobby',
   imports: [],
   templateUrl: './lobby.html',
-  styleUrl: './lobby.css',
+  styleUrl: './lobby.scss',
 })
 export class Lobby {
 

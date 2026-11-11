@@ -5,6 +5,6 @@ import { RouterLink } from '@angular/router';
   selector: 'app-nav',
   imports: [RouterLink],
   templateUrl: './nav.html',
-  styleUrl: './nav.css'
+  styleUrl: './nav.scss'
 })
 export class Nav {}

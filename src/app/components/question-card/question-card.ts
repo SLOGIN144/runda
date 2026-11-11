@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-question-card',
   imports: [],
   templateUrl: './question-card.html',
-  styleUrl: './question-card.css',
+  styleUrl: './question-card.scss',
 })
 export class QuestionCard {
 

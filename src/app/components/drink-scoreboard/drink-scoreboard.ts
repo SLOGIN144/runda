@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-drink-scoreboard',
   imports: [],
   templateUrl: './drink-scoreboard.html',
-  styleUrl: './drink-scoreboard.css',
+  styleUrl: './drink-scoreboard.scss',
 })
 export class DrinkScoreboard {
 

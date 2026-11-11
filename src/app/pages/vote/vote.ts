@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-vote',
   imports: [],
   templateUrl: './vote.html',
-  styleUrl: './vote.css',
+  styleUrl: './vote.scss',
 })
 export class Vote {
 

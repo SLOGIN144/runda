@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-round-result',
   imports: [],
   templateUrl: './round-result.html',
-  styleUrl: './round-result.css',
+  styleUrl: './round-result.scss',
 })
 export class RoundResult {
 

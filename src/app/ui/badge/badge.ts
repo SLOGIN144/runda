@@ -1,11 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, input } from '@angular/core';
 
 @Component({
   selector: 'app-badge',
-  imports: [],
   templateUrl: './badge.html',
-  styleUrl: './badge.css',
+  styleUrl: './badge.scss'
 })
 export class Badge {
-
+  vrsta = input('mild');   // mild, spicy, extreme, javna, zasebna
 }

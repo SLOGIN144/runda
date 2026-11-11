@@ -1,0 +1,16 @@
+.gumb {
+  font-family: 'Bitter', serif;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: 3px solid var(--crna);
+  border-radius: 8px;
+  box-shadow: 4px 4px 0 var(--crna);
+  cursor: pointer;
+
+  &:active { transform: translate(2px, 2px); box-shadow: 2px 2px 0 var(--crna); }
+
+  &.glavni { background: var(--rumena); color: var(--crna); }
+  &.opeka  { background: var(--opeka); color: var(--krem); }
+  &.obroba { background: transparent; color: var(--krem); border-color: var(--medenina); }
+}

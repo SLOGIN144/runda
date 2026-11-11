@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-question-list-item',
   imports: [],
   templateUrl: './question-list-item.html',
-  styleUrl: './question-list-item.css',
+  styleUrl: './question-list-item.scss',
 })
 export class QuestionListItem {
 

@@ -1,11 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, input } from '@angular/core';
 
 @Component({
   selector: 'app-panel',
-  imports: [],
   templateUrl: './panel.html',
-  styleUrl: './panel.css',
+  styleUrl: './panel.scss'
 })
 export class Panel {
-
+  naslov = input('');
 }

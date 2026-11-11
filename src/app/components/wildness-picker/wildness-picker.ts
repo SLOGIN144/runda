@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-wildness-picker',
   imports: [],
   templateUrl: './wildness-picker.html',
-  styleUrl: './wildness-picker.css',
+  styleUrl: './wildness-picker.scss',
 })
 export class WildnessPicker {
 

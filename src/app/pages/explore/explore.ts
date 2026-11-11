@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-explore',
   imports: [],
   templateUrl: './explore.html',
-  styleUrl: './explore.css',
+  styleUrl: './explore.scss',
 })
 export class Explore {
 
